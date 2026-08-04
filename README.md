@@ -39,3 +39,16 @@ style="border-radius:50%;" />
 
 </tr>
 </table>
+<div align="center">
+
+<img src="assets/components/title.svg" width="100%">
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,html,css,git,github,vscode,linux&perline=4"/>
+
+</div>
