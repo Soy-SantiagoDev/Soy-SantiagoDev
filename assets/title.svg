@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg
+xmlns="http://www.w3.org/2000/svg"
+width="900"
+height="60">
+
+<rect
+width="900"
+height="60"
+rx="12"
+fill="#161B22"/>
+
+<rect
+width="8"
+height="60"
+fill="#58A6FF"/>
+
+<text
+x="25"
+y="38"
+font-size="28"
+fill="#FFFFFF"
+font-family="Segoe UI">
+
+🛠 Tech Stack
+
+</text>
+
+</svg>
