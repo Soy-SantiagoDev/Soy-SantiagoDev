@@ -51,6 +51,15 @@ style="border-radius:50%;" />
 
 <img src="assets/title.svg" width="100%">
 
+
+<h2 align="center">🛠 Tech Stack</h2>
+
+<p align="center">
+Tecnologías con las que actualmente desarrollo y aprendo.
+</p>
+
+<br>
+
 </div>
 
 <br>
@@ -60,3 +69,33 @@ style="border-radius:50%;" />
 <img src="https://skillicons.dev/icons?i=python,java,html,css,git,github,vscode,linux&perline=4"/>
 
 </div>
+
+<h3 align="center">💻 Lenguajes</h3>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,html,css&theme=dark"/>
+
+</div>
+
+<br>
+
+<h3 align="center">⚙️ Herramientas</h3>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark"/>
+
+</div>
+
+<br>
+
+<h3 align="center">📚 Aprendiendo</h3>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,docker&theme=dark"/>
+
+</div>
+
+<br>
