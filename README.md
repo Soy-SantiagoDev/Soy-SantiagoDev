@@ -41,6 +41,14 @@ style="border-radius:50%;" />
 </table>
 <div align="center">
 
+<div align="center">
+
+<img src="assets/separator.svg" width="100%">
+
+</div>
+
+<br>
+
 <img src="assets/title.svg" width="100%">
 
 </div>
