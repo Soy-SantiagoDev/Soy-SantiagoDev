@@ -1,155 +1,141 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=3500&pause=1000&color=F7C52B&center=true&vCenter=true&width=900&lines=👋+Hola%2C+soy+Santiago;💻+Desarrollador+de+Software;📚+Creador+de+Cursos+de+Programación;🚀+Bienvenido+a+mi+GitHub"/>
+# 👋 ¡Hola! Soy Sergio Marín
 
-<br>
+### 🎓 Estudiante de Ingeniería en Software
 
-# 🚀 Bienvenido a mi perfil
-
-### Aquí encontrarás cursos gratuitos, proyectos reales y recursos para aprender programación.
-
-<p>
-
-<a href="https://github.com/Soy-SantiagoDev?tab=repositories">
-<img src="https://img.shields.io/badge/Repositorios-Explorar-181717?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://github.com/Soy-SantiagoDev/Python-desde-cero-">
-<img src="https://img.shields.io/badge/🐍_Python_Desde_Cero-Ver_Curso-3776AB?style=for-the-badge">
-</a>
-
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=00BFFF&center=true&vCenter=true&width=700&lines=Bienvenido+a+mi+GitHub;Software+Engineering+Student;Python+Developer;Siempre+aprendiendo+nuevas+tecnologías;Open+Source+Enthusiast" />
 
 </div>
 
 ---
 
-# 👨‍💻 Sobre mí
+# 🚀 Sobre mí
 
-```python
-class Santiago:
+Soy **Sergio Marín**, estudiante de **Ingeniería en Software**.
 
-    nombre = "Santiago"
+No utilizo GitHub para buscar reconocimiento; lo utilizo porque disfruto construir software, aprender nuevas tecnologías y compartir mi proceso de crecimiento.
 
-    pais = "Colombia"
+Cada repositorio representa una oportunidad para mejorar como desarrollador y ayudar a otros programadores que están comenzando este camino.
 
-    profesion = "Desarrollador de Software"
-
-    especialidad = [
-        "Python",
-        "Java",
-        "JavaScript",
-        "SQL",
-        "Git"
-    ]
-
-    objetivo = "Enseñar programación de forma sencilla."
-```
+Mi objetivo es colaborar con ingenieros de software de todo el mundo, aprender constantemente y crear proyectos que puedan ser útiles para la comunidad.
 
 ---
 
-# 📚 Cursos disponibles
+# 💡 Mi filosofía
 
-| Curso | Estado |
-|--------|--------|
-| 🐍 Python Desde Cero | ✅ |
-| ☕ Java Desde Cero | 🚧 |
-| 🌐 HTML Desde Cero | 🚧 |
-| 🎨 CSS Desde Cero | 🚧 |
-| ⚡ JavaScript Desde Cero | 🚧 |
-| ⚛ React Desde Cero | 🚧 |
-| 🗄 SQL Desde Cero | 🚧 |
+> **"El mejor código no es el que impresiona, sino el que ayuda a resolver problemas y permite que otros aprendan de él."**
+
+---
+
+# 📚 Actualmente
+
+- 🐍 Aprendiendo Python
+- ☕ Próximamente Java
+- 🌐 Desarrollo Web
+- ⚙️ Backend
+- 📖 Ingeniería de Software
 
 ---
 
 # 🛠 Tecnologías
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://skillicons.dev/icons?i=python,java,html,css,git,github,vscode,linux" />
 
-<img src="https://skillicons.dev/icons?i=java"/>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=javascript"/>
-
-<img src="https://skillicons.dev/icons?i=react"/>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-</p>
+</div>
 
 ---
 
-# 📊 GitHub
+# 🎯 Roadmap
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Soy-SantiagoDev&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soy-SantiagoDev&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Soy-SantiagoDev&theme=tokyonight"/>
-
-</p>
+| Tecnología | Estado |
+|------------|--------|
+| 🐍 Python | ████████████░░░ |
+| ☕ Java | ███░░░░░░░░░░░ |
+| 🌐 HTML/CSS | ██████████░░░ |
+| ⚡ JavaScript | █░░░░░░░░░░░░ |
+| ⚛ React | ░░░░░░░░░░░░░ |
+| 🍃 Spring Boot | ░░░░░░░░░░░░░ |
+| 🐳 Docker | ░░░░░░░░░░░░░ |
+| ☁ AWS | ░░░░░░░░░░░░░ |
 
 ---
 
-# 📌 Proyectos destacados
+# 📦 Proyectos
 
-### 🐍 Python Desde Cero
-
-Curso completo de Python con ejemplos, ejercicios y proyectos.
-
-⭐ Más de 100 lecciones.
-
----
-
-### ☕ Java Desde Cero
-
-En desarrollo.
+| Proyecto | Descripción |
+|----------|-------------|
+| 📚 Python Desde Cero | Serie donde documento mi aprendizaje en Python |
+| 🔲 QR Generator | Generador de códigos QR |
+| ⌨ Máquina de Escribir | Proyecto desarrollado en Python |
+| 🚀 Próximamente | Muchos proyectos más... |
 
 ---
 
-### 🌐 Desarrollo Web
-
-HTML • CSS • JavaScript • React
-
----
-
-### 🤖 Automatización
-
-Scripts para automatizar tareas.
-
----
-
-# 🎯 Objetivo
-
-> Compartir conocimiento y ayudar a miles de personas a aprender programación de manera gratuita.
-
----
+# 📈 Estadísticas
 
 <div align="center">
 
-## ⭐ Si alguno de mis proyectos te ayuda...
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Soy-SantiagoDev&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-### ¡No olvides dejar una estrella!
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soy-SantiagoDev&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
+</div>
+
+---
+
+# 🔥 Racha de contribuciones
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Soy-SantiagoDev&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 Trofeos
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Soy-SantiagoDev&theme=tokyonight&row=1&column=6"/>
+
+</div>
+
+---
+
+# 📊 Actividad
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Soy-SantiagoDev&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 🌎 Conectemos
+
+<div align="center">
+
+<a href="https://github.com/Soy-SantiagoDev">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+</div>
+
+---
+
+# ❤️ Gracias por visitar mi perfil
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Soy-SantiagoDev&style=for-the-badge&color=blue"/>
+
+### ⭐ Siempre aprendiendo.
+### 🚀 Siempre construyendo.
+### 💻 Siempre compartiendo.
 
 </div>
