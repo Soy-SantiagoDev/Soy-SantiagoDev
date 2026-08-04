@@ -7,36 +7,35 @@
 <img src="./assets/separator.svg" width="100%">
 
 </div>
-<h1 align="center">
-👋 ¡Hola! Soy Santiago Marín
-</h1>
+<table width="100%">
+<tr>
 
-<h3 align="center">
-Software Engineering Student • Backend Developer in Progress • Open Source
-</h3>
+<td width="70%" valign="top">
 
-<p align="center">
+<h2>👨‍💻 Sobre mí</h2>
 
-Apasionado por construir software, aprender nuevas tecnologías y compartir conocimiento a través de proyectos reales.
-
+<p>
+Soy <strong>Santiago Marín</strong>, estudiante de <strong>Ingeniería en Software</strong>.
 </p>
 
-<br>
+<p>
+Me apasiona crear software, aprender constantemente y compartir cada proyecto que desarrollo.
+</p>
 
-Mi objetivo es colaborar con personas de todo el mundo, construir proyectos útiles y contribuir a la comunidad Open Source.
+<p>
+Mi objetivo es colaborar con desarrolladores de todo el mundo y construir proyectos útiles para la comunidad.
+</p>
 
 </td>
 
-<td align="center">
+<td width="30%" align="center">
 
-<img src="https://github.com/Soy-SantiagoDev.png" width="180"/>
+<img
+src="https://github.com/Soy-SantiagoDev.png"
+width="180"
+style="border-radius:50%;" />
 
 </td>
 
 </tr>
-
 </table>
-
-</div>
-
-<br>
