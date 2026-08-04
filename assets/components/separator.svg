@@ -1,17 +1,30 @@
-</defs>
+<?xml version="1.0" encoding="UTF-8"?>
 
-<rect
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="1000"
+    height="10"
+    viewBox="0 0 1000 10">
 
-x="0"
+    <defs>
 
-y="5"
+        <linearGradient id="gradient">
 
-width="1000"
+            <stop offset="0%" stop-color="#0D1117"/>
 
-height="2"
+            <stop offset="50%" stop-color="#58A6FF"/>
 
-fill="url(#gradient)"
+            <stop offset="100%" stop-color="#0D1117"/>
 
-/>
+        </linearGradient>
+
+    </defs>
+
+    <rect
+        x="0"
+        y="4"
+        width="1000"
+        height="2"
+        fill="url(#gradient)" />
 
 </svg>
