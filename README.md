@@ -41,7 +41,7 @@ style="border-radius:50%;" />
 </table>
 <div align="center">
 
-<img src="assets/components/title.svg" width="100%">
+<img src="assets/title.svg" width="100%">
 
 </div>
 
