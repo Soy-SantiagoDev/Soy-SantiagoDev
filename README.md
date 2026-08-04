@@ -4,6 +4,6 @@
 
 <br><br>
 
-<img src="./assets/components/separator.svg" width="100%">
+<img src="./assets/separator.svg" width="100%">
 
 </div>
